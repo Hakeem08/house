@@ -1,0 +1,17 @@
+.hero img{
+    height: 35rem;
+    object-fit: cover;
+    filter: brightness(90%) contrast(100%); 
+}
+
+.hero li{
+    list-style: none;
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+}
+
+.hero .carousel-caption{
+    top: 80%;
+    text-align: left;
+}
